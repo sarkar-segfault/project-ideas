@@ -8,7 +8,7 @@ a list of project ideas for me so i don't forget:
 5. [ ] Image Viewer
 6. [x] Word Counter: [wcx](https://github.com/sarkar-segfault/wcx)
 7. [ ] Sort Visualizer
-8. [ ] Rendering Library
+8. [x] Rendering Library: [Rx](https://github.com/sarkar-segfault/Rx)
 9. [ ] GUI Library
 10. [ ] [Boost](https://github.com/boostorg/boost), but for C
 11. [ ] Custom Shell
