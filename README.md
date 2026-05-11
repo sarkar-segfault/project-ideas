@@ -1,14 +1,14 @@
 # project-ideas
 a list of project ideas for me so i don't forget:
 
-1. [x] Quiz Generator: [qqg](https://github.com/sarkar-segfault/qqg)
-2. [x] Flashcard System: [rufca](https://github.com/sarkar-segfault/rufca)
-3. [x] Personal Website: [sarkar-segfault.github.io](https://github.com/sarkar-segfault/sarkar-segfault.github.io)
-4. [x] Windowing Library: [Vx](https://github.com/sarkar-segfault/Vx)
+1. [x] Quiz Generator: [qqg](https://codeberg.org/adhritsarkar/qqg)
+2. [x] Flashcard System: [rufca](https://codeberg.org/adhritsarkar/rufca)
+3. [] Personal Website
+4. [x] Windowing Library: [Vx](https://codeberg.org/adhritsarkar/Vx)
 5. [ ] Image Viewer
-6. [x] Word Counter: [wcx](https://github.com/sarkar-segfault/wcx)
+6. [x] Word Counter: [wcx](https://codeberg.org/adhritsarkar/wcx)
 7. [ ] Sort Visualizer
-8. [x] Rendering Library: [Rx](https://github.com/sarkar-segfault/Rx)
+8. [x] Rendering Library: [Rx](https://codeberg.org/adhritsarkar/Rx)
 9. [ ] GUI Library
 10. [ ] [Boost](https://github.com/boostorg/boost), but for C
 11. [ ] Custom Shell
