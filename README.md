@@ -13,4 +13,4 @@ a list of project ideas for me so i don't forget:
 10. [ ] [Boost](https://github.com/boostorg/boost), but for C
 11. [ ] Custom Shell
 12. [ ] Roguelike Dungeon Crawler
-13. [ ] Voxel-based engine/game with C++ and WebGPU
+13. [ ] Voxel-based engine/game with Rust and WebGPU
